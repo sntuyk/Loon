@@ -34,6 +34,8 @@ DOMAIN,apple.comscoreresearch.com
 DOMAIN,news-client.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN,news-edge.apple.com
+DOMAIN,news.iadsdk.apple.com
+DOMAIN,news-assets.apple.com
 # > YouTube
 USER-AGENT,com.google.ios.youtube*
 USER-AGENT,YouTube*
