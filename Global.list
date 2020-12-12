@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,noredink.com
 DOMAIN-SUFFIX,achieve3000.com
 DOMAIN-SUFFIX,study.com
 # > Apple news
-DOMAIN,13-courier.push.apple.com
+DOMAIN-SUFFIX,push.apple.com
 DOMAIN,testflight.apple.com
 DOMAIN,gateway.icloud.com
 DOMAIN,gspe1-ssl.ls.apple.com
@@ -36,6 +36,7 @@ DOMAIN,news-events.apple.com
 DOMAIN,news-edge.apple.com
 DOMAIN,news.iadsdk.apple.com
 DOMAIN,news-assets.apple.com
+DOMAIN,iadcontent.apple.com
 # > YouTube
 USER-AGENT,com.google.ios.youtube*
 USER-AGENT,YouTube*
