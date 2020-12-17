@@ -92,3 +92,6 @@ DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,githubapp.com
+# > 机场
+DOMAIN-SUFFIX,nexitally.com
+DOMAIN-SUFFIX,maying.co
